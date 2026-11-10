@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: my-app-container
-        image: nginx
+        image: anud58123/anud58123:v1
         ports:
         - containerPort: 80
